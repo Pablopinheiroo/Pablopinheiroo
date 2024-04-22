@@ -22,7 +22,9 @@
 
 ## Em Desenvolvimento
 [![Data Science](https://img.shields.io/badge/Data_Science-000?style=for-the-badge&logo=python&logoColor=30A3DC)](https://github.com/Pablopinheiroo)
+[![Python Data Analytics](https://img.shields.io/badge/Python_Data_Analytics-000?style=for-the-badge&logo=python&logoColor=30A3DC)](https://github.com/Pablopinheiroo)
 [![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-000?style=for-the-badge&logo=python&logoColor=30A3DC)](https://github.com/Pablopinheiroo)
+
 
 ### Bibliotecas e Frameworks
 
